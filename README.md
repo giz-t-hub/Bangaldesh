@@ -56,7 +56,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> National Adaptional Plan of Bangladesh 2023-2050 </b>: https://moef.portal.gov.bd/sites/default/files/files/moef.portal.gov.bd/npfblock/903c6d55_3fa3_4d24_a4e1_0611eaa3cb69/National%20Adaptation%20Plan%20of%20Bangladesh%20%282023-2050%29%20%281%29.pdf
   - <b> Climate Change Initiatives of Bangladesh </b>: https://doe.portal.gov.bd/sites/default/files/files/doe.portal.gov.bd/npfblock/2022-11-02-08-08-ade27c3a48eeeedbf1394e5fa527edd2.pdf
   - <b> The Bangladesh Climate Funds </b>: https://www.ldc-climate.org/wp-content/uploads/2018/02/LDC-paper-series-18.pdf
-  - 
+  - <b> BANGLADESHCLIMATE CHANGE AND GENDER ACTION PLAN, 2024 </b>: https://moef.portal.gov.bd/sites/default/files/files/moef.portal.gov.bd/page/ac0ce881_4b1d_4844_a426_1b6ee36d2453/ccGAP%20Final%20Print%20Version-25%20April%202024c.pdf
 - Energy policy:
   - <b> Integrated Energy and Power Master plan (IEPMP), 2023 </b>: https://powerdivision.portal.gov.bd/sites/default/files/files/powerdivision.portal.gov.bd/page/4f81bf4d_1180_4c53_b27c_8fa0eb11e2c1/IEPMP%202023.pdf
   - <b> Power and Energy, Sector Strategy Paper, 2018 </b>: https://plandiv.portal.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/publications/13ac4853_fd1b_4acf_bb89_1bdb680370d5/P&E-SSP.pdf
@@ -79,11 +79,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Digitalisation <a name="digitalisation"></a>
 - <b> e-Government Master Plan for Digital Bangladesh, 2019 </b>: https://bcc.portal.gov.bd/sites/default/files/files/bcc.portal.gov.bd/publications/3f9cd471_9905_4122_96ee_ced02b7598a9/2020-05-24-15-54-43f3d2b8b4523b5b62157b069302c4db.pdf
 - <b> Smart Bangladesh Vision 2041 </b>: https://a2i.gov.bd/a2i-missions/smart-bangladesh-vision-2041/ ; https://a2i.gov.bd/what-is-smart-bangladesh-really/
-- 
-
+- <b> ACHIEVING DIGITAL BANGLADESH BY 2021 AND BEYOND Background paper for the 7th Five Year Plan (7FYP) </b>: https://gedkp.gov.bd/wp-content/uploads/2021/02/18_Achieving-Digital-Bangladesh-by-2021-and-Beyond.pdf
+- <b> Digital Bangladesh for Good governance, 2010 </b>: https://erd.portal.gov.bd/sites/default/files/files/erd.portal.gov.bd/page/60daef34_a889_4a94_a902_f3a4a106762b/BDF2010_Session%20VI%20%281%29.pdf
+- <b> Terms of Reference for Digital Economy Strategy, Masterplan and Survey, 2023 </b>: https://bcc.gov.bd/sites/default/files/files/bcc.portal.gov.bd/notices/88995817_44a0_4eb0_9d4c_d872b216cf86/2023-12-10-14-44-1190b3298a73c1a70bca169061d7a373.pdf
 
 ### Gender and Equality <a name="gender"></a>
-
+- <b> UNDP Bangladesh, Gender Equality Strategy 2023-2026 </b>: https://www.undp.org/sites/g/files/zskgke326/files/2023-03/GES%202023-2026%20Final%20Draft.pdf
+- <b> Gender Policy of the Department of Environment Bangladesh, 2016 </b>: https://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/policy/cb9b5425_e215_4681_a74f_1baa9b117627/50.%20%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0%20%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF%20(1).pdf
+- <b> BANGLADESHCLIMATE CHANGE AND GENDER ACTION PLAN, 2024 </b>: https://moef.portal.gov.bd/sites/default/files/files/moef.portal.gov.bd/page/ac0ce881_4b1d_4844_a426_1b6ee36d2453/ccGAP%20Final%20Print%20Version-25%20April%202024c.pdf
+- <b> Gender Diagnostics, Policy, Strategy and Action Plan (DRAFT) For National Social Security Strategy of Bangladesh </b>: https://socialprotection.gov.bd/wp-content/uploads/2020/03/Gender-Diagnostics-Policy-Strategy-and-Action-Plan-for-NSSS.pdf
+- <b> GENDER ACTION PLAN, 2011 </b>: http://uphcp.gov.bd/cmsfiles/files/Gender%20Action%20Plan%20(GAP).pdf
 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
@@ -99,6 +104,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> Bangladesh´s energy transition journey so far </b>: https://bangladesh.un.org/en/260959-bangladesh%E2%80%99s-energy-transition-journey-so-far
 - <b>URBANISATION IN BANGLADESH: CHALLENGES AND WAY FORWARD, 2021 </b>: https://asef.org/wp-content/uploads/2021/11/ASEFSU23-Background-Paper_Sustainable-Urbanisation-in-Bangladesh-Dhaka.pdf
 - <b> Climate Resilient Urban Development in Bangladesh: Policy Gaps and Recommendations CPRD and CANSA </b>: https://cansouthasia.net/climate-resilient-urban-development-in-bangladesh-policy-gaps-and-recommendationscprd-and-cansa/
+- <b> Strategy Primer, For the future of digital in Bangladesh </b>: https://pathwayscommission.bsg.ox.ac.uk/sites/default/files/2021-11/Bangladesh%20Strategy%20Primer%20Accessible.pdf
+- <b> GSMA, Accelerating digital transformation in Bangladesh: Recommendations for mobile-sector taxation reform </b>: https://www.gsma.com/solutions-and-impact/connectivity-for-good/public-policy/wp-content/uploads/2021/05/GSMA_Accelerating_digital_transformation_in_Bangladesh_2021.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 - <b> USAID, Country Developmnet Cooperation Strategy 2020-2027 </b>: https://www.usaid.gov/sites/default/files/2023-06/Bangladesh-CDCS-2020-2027-FINAL_1.pdf
@@ -107,7 +114,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> USAID, RECOMMENDATION FOR A RENEWABLE ENERGY IMPLEMENTATION ACTION PLAN FOR BANGLADESH </b>: https://pdf.usaid.gov/pdf_docs/PA00XD5J.pdf
 - <b> 100% renewable energy for Bangladesh </b>: https://www.worldfuturecouncil.org/de/100-erneuerbare-energie-in-bangladesch/
 - <b> giz, Resilient and inclusive urban development </b>: https://www.giz.de/de/downloads/2018-05-22-Resilient%20and%20Inclusive%20Urban%20Development.pdf
-- <b> BRAC, URBAN DEVELOPMENT PROGRAMME </b>: https://www.brac.net/program/wp-content/uploads/2020/02/UDP_Annual-Highlights_2018.pdf
+- <b> BRAC, URBAN DEVELOPMENT PROGRAMME </b>: https://www.brac.net/program/wp-content/uploads/2020/02/UDP_Annual-Highlights_2018.pdf+
+- <b> KfW, Discussion Paper, Bangladesh Gender Profile </b>: https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Diskussionsbeitr%C3%A4ge/42_AMD_E.pdf
+- <b> Review of implementation:Bangladesh’s Climate Change Gender Action Plan (ccGAP) </b>: https://asiapacific.unwomen.org/sites/default/files/2023-04/final_ccgap_rapid%20appraisal_bco_9-dec-clean-copy.pdf
+- <b> JICA, Chapter 14: Public Transport Development Plan </b>: https://openjicareport.jica.go.jp/pdf/11996774_08.pdf
+- <b> Asian Development Bank, Greater Dhaka Sustainable Transport Project </b>: https://www.adb.org/sites/default/files/project-documents//42169-013-ban-sprss.pdf
+- <b> UN CTCN, Development of a Framework for Real-Time Transport Information Systems for Public Transport in the Greater Dhaka Area, 2023 </b>: https://www.ctc-n.org/system/files/dossier/3b/Output%204.%20CTCN%20Bangladesh%202022_Existing%20Conditions%20Report_2023.12.05%20%28final%29.pdf
+- <b> AFD, DEVELOP AN EFFICIENT PUBLIC TRANSPORT SYSTEM FOR GREATER DHAKA </b>: https://www.afd.fr/en/carte-des-projets/develop-efficient-public-transport-system-greater-dhaka
 
 ### Data <a name="data"></a>
 
