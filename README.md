@@ -143,3 +143,4 @@ For more information about our work, please refer to:
 
 Compiled by / Contact:
 Frederic Bocklet: frederic.bocklet@giz.de
+(as of July 2024)
