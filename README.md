@@ -45,15 +45,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
--
+
   
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
-- 
+
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
--
+
 
 ### Digitalisation <a name="digitalisation"></a>
 
@@ -61,21 +61,20 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Gender and Equality <a name="gender"></a>
 
--
 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- 
+
 
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- 
+
 
 ### Data <a name="data"></a>
 
