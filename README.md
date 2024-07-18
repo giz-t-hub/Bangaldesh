@@ -45,7 +45,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 - <b> National Budget 2023-24: Summary Transport and Communication </b>: https://cpd.org.bd/resources/2023/08/Transport-and-Communication-budget-2023-24.pdf
-- 
+  
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -64,7 +64,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Urban and regional development <a name="urban"></a> 
 - <b> The Project on the Revision and Updating of the Strategic Transport Plan for Dhaka, 2015 </b>: https://dtca.portal.gov.bd/sites/default/files/files/dtca.portal.gov.bd/page/489fc4f6_77f0_4dac_8103_eac42b6429c4/UrbanTransport%20Policy%20(RSTP).pdf
 - <b> Urban Development Directorate (UDD), 2005 </b>: https://udd.portal.gov.bd/sites/default/files/files/udd.portal.gov.bd/publications/5d0b861b_9781_4e4a_a1f5_9011b9fd5447/2023-01-29-08-50-6bcf73aefbb23d61692db6ca7e52dfe3.pdf
-- 
+  
 
   
 ### EU accession and cooperation <a name="eu-accession"></a> 
@@ -73,7 +73,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 - <b> USDA, BANGLADESH TRADE FACILITATION PROJECT </b>: https://pdf.usaid.gov/pdf_docs/PA00XRG9.pdf ; https://btfproject.org/#:~:text=The%20Bangladesh%20Trade%20Facilitation%20Project,processes%3B%20improving%20the%20capacity%20of
-- 
+  
 
 
 ### Digitalisation <a name="digitalisation"></a>
@@ -134,7 +134,7 @@ Disclaimer: Findings, interpretations and conclusions expressed in this chart ar
 
 
 Contributors:
-- 
+
 
 
 Compiled by / Contact:
