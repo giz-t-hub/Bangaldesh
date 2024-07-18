@@ -68,7 +68,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
   
 ### EU accession and cooperation <a name="eu-accession"></a> 
-
+- <b> EU and Bangladesh </b>: https://www.eeas.europa.eu/bangladesh/european-union-and-bangladesh_en?s=164 ; https://international-partnerships.ec.europa.eu/countries/bangladesh_en
 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
