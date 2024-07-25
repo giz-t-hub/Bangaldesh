@@ -42,7 +42,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> National Action Plan of Minsitries/Divisons by Targets for the Implementation of SDGs, 2018 </b>: https://info.undp.org/docs/pdc/Documents/BGD/SDGs-National_Actional_Plan.pdf
   - <b> Naional Sustainable Development Strategy 2010-2021 </b>: https://faolex.fao.org/docs/pdf/bgd146948.pdf
   - <b> National Strategy for Development of Statistics Implementation Support Project: Reliable Data for Better Planning </b>: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/721691568358069740/bangladesh-national-strategy-for-development-of-statistics-implementation-support-project-reliable-data-for-better-planning
-  - 
+  - <b> Mujib Climate Prosperity Plan 2030 </b>: https://mujibplan.com/#
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 - <b> National Budget 2023-24: Summary Transport and Communication </b>: https://cpd.org.bd/resources/2023/08/Transport-and-Communication-budget-2023-24.pdf
