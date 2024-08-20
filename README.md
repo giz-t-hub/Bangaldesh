@@ -109,6 +109,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> Strategy Primer, For the future of digital in Bangladesh </b>: https://pathwayscommission.bsg.ox.ac.uk/sites/default/files/2021-11/Bangladesh%20Strategy%20Primer%20Accessible.pdf
 - <b> GSMA, Accelerating digital transformation in Bangladesh: Recommendations for mobile-sector taxation reform </b>: https://www.gsma.com/solutions-and-impact/connectivity-for-good/public-policy/wp-content/uploads/2021/05/GSMA_Accelerating_digital_transformation_in_Bangladesh_2021.pdf
 
+
+
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 - <b> USAID, Country Developmnet Cooperation Strategy 2020-2027 </b>: https://www.usaid.gov/sites/default/files/2023-06/Bangladesh-CDCS-2020-2027-FINAL_1.pdf
 - <b> National Policy On Development Cooperation </b>: https://erd.portal.gov.bd/sites/default/files/files/erd.portal.gov.bd/notices/594d272c_6917_4891_a62a_5d14a629c9b9/Latest%20Version_HFM_NPDC.pdf
